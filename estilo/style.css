@@ -37,7 +37,7 @@
     justify-content: space-between;*/
     padding: 80px 10px 20px 15px;
     /*background-color: var(--cor1mod);*/
-    background: var(--cor2) url('../imagens/planeta.jpg') center left  no-repeat scroll;
+    background: black url('../imagens/planeta.jpg') center left  no-repeat scroll;
     background-size: cover;
     color: black;
     text-align: center;
